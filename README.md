@@ -16,7 +16,7 @@ A complete e-commerce web app built with:
 3. Connect to Oracle sql on localhost
 ## 📘 Projects
 
-### 1. **E-Commerce Full Stack App** – [View Code](https://github.com/rahul-java-dev/ecommerce-app)
+### 1. **E-Commerce Full Stack App** – [View Code](https://github.com/johnbasha0786/sj1ecomerce-app)
 Java + Spring Boot backend + React frontend. Includes user login, product list, cart, order system.
 
 ---
